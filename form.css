@@ -1,0 +1,19 @@
+h2{
+    text-align: center;
+    font-size: 40px;
+    font-family: inherit;
+}
+#studentform{
+    text-align: center;
+}
+h3{
+    text-align: center;
+}
+table{
+    margin: 0 0 0 33px;
+
+    font-size: 26px;
+}
+th{
+   padding: 0px 192px 0px 50px;
+}
